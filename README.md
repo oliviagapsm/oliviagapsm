@@ -3,18 +3,25 @@
 ### :tada: About Me
 
 - :ledger: Software engineering student
-- :art: Fascinated about the involvement between music and technology :computer:
+- :musical_keyboard: Fascinated about the involvement between music and technology :computer:
 - :deciduous_tree: Lover of nature and animals :dog:
 
 ### :eyes: What I am doing
 
-- :rainbow: I’m currently studying React and Node
+- :bookmark_tabs: I’m currently studying C++
 - :pencil2: I’m currently working on [Sortech](https://sortech.com.br/)
 - :robot: I’m currently learning Data Structure
+
+### :mailbox_with_mail: Find me and get in touch
 
 <div align="center">
   <a href="https://github.com/ArthurGabrieel>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurGabrieel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <a href = "mailto:arthurelgg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arthurgabriellg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  ##
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGabrieel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -35,12 +42,7 @@
 ##
 
 <div align="center">
-  <a href="https://instagram.com/arthurgabriellg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:arthurelgg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthurgabriellg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
   ![Snake animation](https://github.com/ArthurGabrieel/ArthurGabrieel/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
 ##
