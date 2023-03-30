@@ -16,14 +16,14 @@
 
 <div>
   <a href="https://github.com/ArthurGabrieel>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurGabrieel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
   <a href = "mailto:arthurelgg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthurgabriellg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  ##
   </div>
+  
+  ##
+  
   <div align="center">
-                     
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurGabrieel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGabrieel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
                                                                                                                                                     
@@ -38,4 +38,13 @@
   <img align="center" alt="Arthur-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="Arthur-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
+
+ ##
+                                                                                                                                                    
+<div align="center">
+  
+  ![Snake animation](https://github.com/ArthurGabrieel/ArthurGabrieel/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+                                                                                                                                                 
 
