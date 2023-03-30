@@ -1,16 +1,23 @@
-## Meu nome é Arthur Gabriel, seja muito bem vindo!
+## :grinning: Hi there, I am Arthur Gabriel
+
+### :tada: About Me
+
+- :ledger: Software engineering student
+- :art: Fascinated about the involvement between music and technology :computer:
+- :deciduous_tree: Lover of nature and animals :dog:
+
+### :eyes: What I am doing
+
+- :rainbow: I’m currently studying React and Node
+- :pencil2: I’m currently working on [Sortech](https://sortech.com.br/)
+- :robot: I’m currently learning Data Structure
+
 <div align="center">
   <a href="https://github.com/ArthurGabrieel>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurGabrieel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGabrieel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-##
-
-#### Atual estudante de engenharia de software na Universidade de Brasília.
-
-##
                                                                                                                                                     
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Arthur-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -18,17 +25,10 @@
   <img align="center" alt="Arthur-C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Arthur-Dart" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Arthur-Flutter" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arthur-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Arthur-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Arthur-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="Arthur-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  
-          
-  
-          
-          
 
 </div>
 
