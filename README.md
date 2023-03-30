@@ -3,8 +3,8 @@
 ### :tada: About Me
 
 - :ledger: Software engineering student
-- :musical_keyboard: Fascinated about the involvement between music and technology :computer:
-- :deciduous_tree: Lover of nature and animals :dog:
+- :computer: Fascinated about technology
+- :musical_keyboard: Lover of music and shows 📺
 
 ### :eyes: What I am doing
 
