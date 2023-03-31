@@ -15,7 +15,7 @@
 ### :mailbox_with_mail: Find me and get in touch
 
 <div>
-  <a href="https://github.com/ArthurGabrieel>
+  <a href="https://github.com/ArthurGabrieel">
   <a href = "mailto:arthurelgg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthurgabriellg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
