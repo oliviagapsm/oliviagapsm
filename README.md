@@ -4,7 +4,7 @@
 
 - :ledger: Software engineering student
 - :computer: Fascinated about technology
-- :musical_keyboard: Lover of music and soccer ⚽
+- :musical_keyboard: Lover of music and karate 🥋
 
 ### :eyes: What I am doing
 
