@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dace18&height=120&section=header"/>
+
 ## :grinning: Hi there, I am Arthur Gabriel
 
 ### :tada: About Me
@@ -47,4 +49,4 @@
   
 </div>
                                                                                                                                                  
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dace18&height=120&section=footer"/>
