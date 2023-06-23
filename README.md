@@ -1,9 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dace18&height=120&section=header"/>
 
-## :grinning: Hi there, I am Arthur Gabriel
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=426EF7&width=470&height=70&lines=Hi+there%2C+I+am+Arthur+Gabriel;I'm+glad+you're+here;+I+study+software+engineering;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+</div>
+
+##
 
 ### :tada: About Me
-
 - :ledger: Software engineering student
 - :computer: Fascinated about technology
 - :musical_keyboard: Lover of music and karate 🥋
