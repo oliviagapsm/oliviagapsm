@@ -13,9 +13,9 @@
 
 ### :eyes: What I am doing
 
-- :bookmark_tabs: I’m currently studying C++
+- :bookmark_tabs: I’m currently studying Swift
 - :pencil2: I’m currently working on [Sortech](https://sortech.com.br/)
-- :robot: I’m currently learning Data Structure
+- :robot: I’m currently learning IOS Development
 
 ### :mailbox_with_mail: Find me and get in touch
 
@@ -53,11 +53,5 @@
 </div>
 
  ##
-                                                                                                                                                    
-<div align="center">
-  
-  ![Snake animation](https://github.com/ArthurGabrieel/ArthurGabrieel/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
                                                                                                                                                  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer"/>
