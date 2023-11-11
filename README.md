@@ -13,9 +13,9 @@
 
 ### :eyes: What I am doing
 
-- :bookmark_tabs: I’m currently studying Swift
+- 👨🏼‍💻 I’m currently studying Swift
 - :pencil2: I’m currently working on [Sortech](https://sortech.com.br/)
-- :robot: I’m currently learning IOS Development
+- 📱 I’m currently learning IOS Development
 
 ### :mailbox_with_mail: Find me and get in touch
 
