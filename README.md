@@ -7,15 +7,13 @@
 ##
 
 ### :tada: About Me
-- :ledger: Software engineering student
+- :ledger: Software engineering 
 - :computer: Fascinated about technology
-- :musical_keyboard: Lover of music and karate 🥋
 
 ### :eyes: What I am doing
 
-- 👨🏼‍💻 I’m currently studying Swift
+- 👨🏼‍💻 I’m currently studying Data Science 
 - :pencil2: I’m currently working on [Sortech](https://sortech.com.br/)
-- 📱 I’m currently learning IOS Development
 
 ### :mailbox_with_mail: Find me and get in touch
 
